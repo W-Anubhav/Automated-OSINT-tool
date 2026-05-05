@@ -1,0 +1,10 @@
+streamlit
+pandas
+networkx
+matplotlib
+plotly
+python-nmap
+python-dotenv
+requests
+dnspython
+pyvis
